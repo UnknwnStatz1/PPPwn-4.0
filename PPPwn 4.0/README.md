@@ -35,7 +35,7 @@ git clone --recursive https://github.com/UnknwnStatz1/PPPwn-4.0
 Change the directory to the cloned repository:
 
 ```sh
-cd PPPwn 4.0
+cd PPPwn
 ```
 
 Install the requirements:
