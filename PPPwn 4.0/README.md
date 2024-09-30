@@ -29,7 +29,7 @@ The exploit only prints `PPPwned` on your PS4 as a proof-of-concept. In order to
 On your computer, clone the repository:
 
 ```sh
-git clone --recursive https://github.com/UnknwnStatz1/PPPwn-4.0/tree/main/PPPwn%204.0
+git clone --recursive https://github.com/UnknwnStatz1/PPPwn-4.0
 ```
 
 Change the directory to the cloned repository:
